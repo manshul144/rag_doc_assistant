@@ -45,3 +45,8 @@ rag_doc_assistant/
 │-- data/               # Sample documents
 │-- utils/              # Helper functions
 
+
+##Screenshots
+<img width="1919" height="662" alt="image" src="https://github.com/user-attachments/assets/d0ef4492-e4e7-448a-8649-9b19ff43000b" />
+
+
