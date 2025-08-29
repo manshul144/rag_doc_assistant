@@ -33,3 +33,15 @@ RAG Document Assistant is an AI-powered application that combines Retrieval-Augm
 
 4. Run the app with:
    streamlit run app.py
+
+
+
+
+## 📂 Project Structure
+rag_doc_assistant/
+│-- app.py              # Main app (Streamlit/Gradio)
+│-- requirements.txt    # Dependencies
+│-- README.md           # Project description
+│-- data/               # Sample documents
+│-- utils/              # Helper functions
+
